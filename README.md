@@ -7,7 +7,7 @@ use slack-webhooks
 `go get github.com/austauschkompass/slackhook`
 
 main.go:
-```
+```go
 package main
 
 import (
